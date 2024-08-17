@@ -2,7 +2,7 @@
 Soto Nazareno
 
 
-## 🚀 Proyectos Destacados
+## 🚀 Projects
 
 ### [🌐 CLIPS](https://github.com/CEKlTA/clips) | A terminal based password manager!
 
